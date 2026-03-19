@@ -1,5 +1,3 @@
-# used-cars-price-analysis
-End-to-End data analysis project on used cars price using web scraping, data cleaning, EDA, and Power BI dashboard to identify key price influencing factors.
 # Used Cars Price Analysis
 # Project Overview
 This project analyzes used car price variations basedon different factors such as brand, fuel type, mileage, and transmission. The data is collected through web scraping and processed using data analysis techniques to generate insights and dashboards.
@@ -26,4 +24,25 @@ This project analyzes used car price variations basedon different factors such a
   - report : Project report
   - images : Visualizations
   - requirements.txt : Dependencies
-  
+# Power BI Dashboard
+The dashboard provides insights into:
+  - Price distribution
+  - Brand-wise comparison
+  - Fuel type analysis
+  - Mileage vs price trends
+# Key Insights
+- Cars prices decrease with age and higher mileage
+- Brand significantly influences resale value
+- Fuel type impacts pricing trends
+- Automatic cars generally have higher prices
+# Challenges
+  - Data scraping limitations from website
+  - Handling missing and inconsistent data
+  - Feature selection for modeling
+# Conclusion
+  This project hels understand key factors affecting used car prices and provides insights useful for buyers and sellers in decision-making.
+# Project Timeline
+January 2026 - February 2026
+# Author
+Sai Vijaya Vallabhuni
+Aspiring Data Analyst
